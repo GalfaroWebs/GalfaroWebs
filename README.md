@@ -17,8 +17,6 @@ Impulsamos tu negocio con **soluciones web hechas a medida**, desde páginas inf
 
 En **GALFARO WEBS**, nos especializamos en cuatro pilares, todos con enfoque en diseño *responsive* y SEO básico:
 
-| Servicio | Enfoque |
-| :--- | :--- | :--- |
 | **Página Informativa** | Ideal para campañas de captación y *landing pages*. |
 | **Web Corporativa** | La imagen digital profesional de tu empresa (Hasta 6 secciones, autogestionable). |
 | **Tienda Online** | Venta de productos con pasarela de pago y SEO para productos. |
