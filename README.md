@@ -52,9 +52,10 @@ Trabajamos para garantizar rendimiento, seguridad y facilidad de gestión:
 | **Formulario** | **[[SOLICITA PRESUPUESTO AQUÍ]](https://forms.gle/UyuxEUNctGZiPEq36)** |
 
 <br>
-
 <div align="center">
+  
   [![Web Oficial](https://img.shields.io/badge/Web%20Oficial-2C3E50?style=for-the-badge&logo=vercel&logoColor=white)](https://galfaro-webs.vercel.app/)
   
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/galfarowebs)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
+
 </div>
