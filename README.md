@@ -40,7 +40,7 @@ Trabajamos para garantizar rendimiento, seguridad y facilidad de gestión:
 
 ---
 <div align="center">
-### 📞 Contacto y Seguimiento
+###📞 Contacto y Seguimiento
 
 ¿Tienes un proyecto en mente? Hablemos de tus necesidades.
 
