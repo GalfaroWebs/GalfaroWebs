@@ -53,8 +53,11 @@ Trabajamos para garantizar rendimiento, seguridad y facilidad de gestión:
 
 <br>
 <div align="center">
+<a href="https://galfaro-webs.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/GalfaroWebs/assets/blob/main/galfaro_logo.png" alt="Logo de GALFARO WEBS" width="20" height="20" style="vertical-align: middle; margin-right: 5px;"/>
+  </a>
   
-  [![Web Oficial](https://github.com/GalfaroWebs/assets/blob/main/galfaro_logo.png)](https://galfaro-webs.vercel.app/)
+  [![Web Oficial](https://img.shields.io/badge/Web%20Oficial-2C3E50?style=for-the-badge)](https://galfaro-webs.vercel.app/)
   
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
 
