@@ -39,7 +39,7 @@ Trabajamos para garantizar rendimiento, seguridad y facilidad de gestión:
 * **Herramientas:** Git, GitHub, Search Console, Google Analytics.
 
 ---
-
+<div align="center">
 ### 📞 Contacto y Seguimiento
 
 ¿Tienes un proyecto en mente? Hablemos de tus necesidades.
@@ -50,6 +50,7 @@ Trabajamos para garantizar rendimiento, seguridad y facilidad de gestión:
 | **Email** | [galfaro.dweb@gmail.com](mailto:galfaro.dweb@gmail.com) |
 | **WhatsApp** | [+34 659 433 420](https://wa.me/34659433420) |
 | **Formulario** | **[[SOLICITA PRESUPUESTO AQUÍ]](https://forms.gle/UyuxEUNctGZiPEq36)** |
+</div>
 
 <br>
 <div align="center">
