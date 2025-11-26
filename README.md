@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://drive.google.com/file/d/1dx_ROw9zNMqX3qv1v7KW2BvizXnnKKkB/view?usp=sharing" alt="Logo de GALFARO WEBS" width="150" height="150"/>
+  <img src="https://github.com/GalfaroWebs/assets/blob/main/galfaro_logo.png" alt="Logo de GALFARO WEBS" width="150" height="150"/>
   <h1>👋 ¡Hola! Soy Gonzalo, fundador de GALFARO WEBS.</h1>
 </div>
 
@@ -54,7 +54,7 @@ Trabajamos para garantizar rendimiento, seguridad y facilidad de gestión:
 <br>
 <div align="center">
   
-  [![Web Oficial](https://drive.google.com/file/d/1dx_ROw9zNMqX3qv1v7KW2BvizXnnKKkB/view?usp=sharing)](https://galfaro-webs.vercel.app/)
+  [![Web Oficial](https://github.com/GalfaroWebs/assets/blob/main/galfaro_logo.png)](https://galfaro-webs.vercel.app/)
   
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
 
